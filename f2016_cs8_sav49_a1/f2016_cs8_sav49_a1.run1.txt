@@ -1,16 +1,13 @@
 /Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5 /Users/SANDIYAVENKATESH/PycharmProjects/CS008-f2016/f2016_cs8_sav49_a1/f2016_cs8_sav49_a1.py
-Enter your preferred system, USC or METRIC : chicken
-Invalid system entered
 Enter your preferred system, USC or METRIC : USC
-Enter distance driven : 10
-Enter gasoline used : 3
+Enter distance driven : 1000
+Enter gasoline used : 100
                                      USC              Metric
-Distance_______________:       10.000 miles           16.093 Km
-Gas____________________:        3.000 gallons         11.356 Liters
-Consumption____________:        3.333 mpg             70.565 1\100Km
+Distance_______________:     1000.000 miles         1609.340 Km
+Gas____________________:      100.000 gallons        378.541 Liters
+Consumption____________:       10.000 mpg             23.522 1\100Km
 
 
 Gas Consumption Rating : Extremely Poor
 
 Process finished with exit code 0
-

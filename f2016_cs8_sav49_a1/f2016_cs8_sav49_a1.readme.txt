@@ -6,4 +6,4 @@ miles to kilometers or kilometers to miles is calculated. Likewise, gallons to l
 calculated. After these calculations, the program will know the distance in miles, distance in kilometers, gasoline
 consumed in gallons and gasoline consumed in liters. With all these data variables, the program calculates miles per
 gallon and liters per hundred kilometers. Then, based on the gas consumption ranges, the gas consumption ratings are
-derived. Finally, all these variables, plus the gas consumption ratings are displayed as a result.
+derived. Finally, all the variables, plus the gas consumption ratings are displayed as a result.

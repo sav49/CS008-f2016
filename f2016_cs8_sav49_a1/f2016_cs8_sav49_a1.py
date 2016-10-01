@@ -70,5 +70,5 @@ print('Consumption____________:', miles_per_gal, 'mpg      ', liters_per_100_km,
 print('\n')
 print('Gas Consumption Rating :', rating)
 
-# PROGRAM END #################################
+# PROGRAM END ##################################
 
