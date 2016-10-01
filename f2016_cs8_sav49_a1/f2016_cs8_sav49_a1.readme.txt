@@ -1,0 +1,9 @@
+The intention of this program is to calculate the gas mileage consumption of a client's car dealer business. This client
+has international customers, so this program should support both USC and metric systems. The program begins by asking
+the user "which system he/she wants to use?". There is a logic check to make sure the user enters either USC or metric.
+The next input the user would enter is the distance driven and the gasoline consumed. Based on the unit chosen, either
+miles to kilometers or kilometers to miles is calculated. Likewise, gallons to liters or liters to gallons is also
+calculated. After these calculations, the program will know the distance in miles, distance in kilometers, gasoline
+consumed in gallons and gasoline consumed in liters. With all these data variables, the program calculates miles per
+gallon and liters per hundred kilometers. Then, based on the gas consumption ranges, the gas consumption ratings are
+derived. Finally, all these variables, plus the gas consumption ratings are displayed as a result.

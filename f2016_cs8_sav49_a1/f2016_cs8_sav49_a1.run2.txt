@@ -1,0 +1,13 @@
+/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5 /Users/SANDIYAVENKATESH/PycharmProjects/CS008-f2016/f2016_cs8_sav49_a1/f2016_cs8_sav49_a1.py
+Enter your preferred system, USC or METRIC : METRIC
+Enter distance driven : 2000
+Enter gasoline used : 120
+                                     USC              Metric
+Distance_______________:     1242.742 miles         2000.000 Km
+Gas____________________:       31.701 gallons        120.000 Liters
+Consumption____________:       39.202 mpg              6.000 1\100Km
+
+
+Gas Consumption Rating : Excellent
+
+Process finished with exit code 0
