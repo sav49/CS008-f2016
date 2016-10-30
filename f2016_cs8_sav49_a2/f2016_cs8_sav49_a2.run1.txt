@@ -1,0 +1,16 @@
+/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5 /Users/SANDIYAVENKATESH/PycharmProjects/CS008-f2016/f2016_cs8_sav49_a2/f2016_cs8_sav49_a2.py
+File to be read : file_1.csv
+Partial Total # of Lines       : 50
+Partial Distance Run           : 2298.967
+
+File to be read : file_2.csv
+Partial Total # of Lines       : 50
+Partial Distance Run           : 2195.061
+
+File to be read : quit
+
+Totals
+Total # of Lines               : 100
+Total Distance Run             : 4494.027
+
+Process finished with exit code 0

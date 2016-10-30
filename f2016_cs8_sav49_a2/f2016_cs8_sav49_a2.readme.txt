@@ -1,0 +1,13 @@
+The program starts off by defining the processFile function. The processFile funtion takes one input parameter called
+fh, which is the file name. In this function, you would open the file and read each line. When you read each line, you
+will count the number of lines and add the distance for all of the lines. This function would return two output
+parameters which is the number of lines in the file and the total distance of all lines.
+
+Secondly, we define the printKV function. This function has three parameters, key, value and keylength. This function is
+used for printing with the left justified key.
+
+In the main program, we ask the user to enter the file name or type in "quit" to come out of the program. For every file
+entered by the user, the processFile function is called. Then, a cummulative line count and distance count is calculated
+based on the return parameters from the process file function. The printKV function is called to display the partial
+file line count and total distance value for each file. When the user enters quit, then the printKV function is called
+to display the cumulative line count and cumulative distance from all files.
