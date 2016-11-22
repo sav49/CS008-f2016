@@ -1,0 +1,16 @@
+/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5 /Users/SANDIYAVENKATESH/PycharmProjects/CS008-f2016/f2016_cs8_sav49_a3/f2016_cs8_sav49_a3.py
+Number of Input files read                         : 3
+Total number of lines read                         : 450
+
+Total distance run                                 : 23222.95595
+
+max distance run                                   : 99.91761
+by participant                                     : Roland
+
+min distance run                                   : 0.05789
+by participant                                     : Alex
+
+Total number of participants                       : 388
+Number of participants with multiple records       : 62
+
+Process finished with exit code 0

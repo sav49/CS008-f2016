@@ -1,0 +1,10 @@
+The program starts off by defining the processFile function. Then the master input list file is read. The names of the
+data files are then retrieved. Every line of every file is read and the all the names and distances are extracted.
+
+In the main program, the toal distance ran by all the participants was calculated and the total distance run for each
+participant was calculated. After, the maximum distance ran by an individual participant was calculated along with the
+minimum distance ran by a single participant.
+
+Then, the program reports if any participant appears more than once in a list and if so , then the number of times they
+appeared was reported. And lastly the total number of participants in all three lists were calculated.
+
