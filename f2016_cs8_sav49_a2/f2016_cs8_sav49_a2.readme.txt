@@ -6,7 +6,7 @@ parameters which is the number of lines in the file and the total distance of al
 Secondly, we define the printKV function. This function has three parameters, key, value and keylength. This function is
 used for printing with the left justified key.
 
-In the main program, we ask the user to enter the file name or type in "quit" to come out of the program. For every file
+In the main program, the user is asked to enter the file name or type in "quit" to come out of the program. For every file
 entered by the user, the processFile function is called. Then, a cummulative line count and distance count is calculated
 based on the return parameters from the process file function. The printKV function is called to display the partial
 file line count and total distance value for each file. When the user enters quit, then the printKV function is called
