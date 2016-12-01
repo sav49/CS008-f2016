@@ -72,7 +72,9 @@ g_cumulative_file_distance_total = 0
 g_file = input('File to be read : ')
 
 # Do the loop until user enters quit
-while not (g_file.lower() == 'q' or g_file.lower() == 'quit'):
+# MN: you are missing the option when the user just hits enter
+#while not (g_file.lower() == 'q' or g_file.lower() == 'quit'):
+while not (g_file == '' or g_file.lower() == 'q' or g_file.lower() == 'quit'):
     # call processFile() function
     g_file_line_count, g_file_distance_total = processFile(g_file)
 
