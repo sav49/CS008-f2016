@@ -8,6 +8,8 @@
 # Description:
 # CS 0008 - Fall 2016 / Assignment #3
 # Notes:
+# MN: creating the output file is missing
+# 
 ###############################################
 
 ###############################################
@@ -56,6 +58,7 @@ def processFile(fh):
             # Add line into list
             temp_file_list.append(line.split(','))
 
+            # MN: here you compute min and max on each single run and not on the total distance run by the participant
             # Capture max distance
             if float(distance[1]) > file_max_distance:
                 file_max_distance = float(distance[1])
@@ -69,11 +72,15 @@ def processFile(fh):
             # Increae file count by 1
             file_line_count += 1
 
+    # close file
+    fetch_file.close()
+
     # Return temporary file list, file line count and total distance value
     return temp_file_list, file_line_count, file_distance_total, file_max_distance, file_max_name, file_min_distance, file_min_name
 
+    # MN: you need to move this statement right before the return , otheriwse is never executed
     # close file
-    fetch_file.close()
+    #fetch_file.close()
 
 
 # End processFile() function
